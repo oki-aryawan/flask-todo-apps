@@ -1,2 +1,2 @@
-flask
-flask-SQLAlchemy
+Flask==2.1.1
+Flask_SQLAlchemy==2.5.1
